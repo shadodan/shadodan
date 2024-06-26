@@ -1,16 +1,57 @@
-## Hi there 👋
+## DevOps Wizard
 
-<!--
-**shadodan/shadodan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What is my focus in DevOps?
 
-Here are some ideas to get you started:
+```bash
+sudo apt-get install sre culture cloud cybersecurity
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What about me?
+
+```yaml
+name: Matheus Dantas Ricardo
+location: São Paulo, Brazil
+languages: ["pt_BR", "en_US"]
+technologies:
+  - Linux
+  - Cloud (AWS, GCP)
+  - Docker
+  - Kubernetes
+  - Jenkins
+  - Github Actions
+  - Terraform
+  - Ansible
+  - Python
+  - Ruby
+  - Bash
+  - SQL Databases
+  - Nginx
+  - Node.js
+  - Agile
+personal:
+  interests:
+    - Kung fu
+    - Technologies
+    - Classical music
+    - Helping others
+    - Christianity
+```
+
+### How I solve problems
+
+```perl
+#!/usr/bin/perl
+
+sub solve_problem 
+{
+    my ($problem, $complexity) = (@_);
+
+    if ($complexity eq "High") {
+        print "Damn, let's use some problem solving techniques, maybe 5 whys and root cause analysis. And also a dramatic playlist.";
+    } else {
+        print "Easy win (Choosing calm and hopeful playlist to solve problem).";
+    }
+
+    print "Yay, problem solved, going to drink a tea.";
+}
+```
