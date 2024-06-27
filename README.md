@@ -55,3 +55,10 @@ sub solve_problem
     print "Yay, problem solved, going to drink a tea.";
 }
 ```
+
+## Wanna see some of my projects?
+
+- Building some epic pipelines
+- Flying through internet through cloud
+- Some servers are failing, observability to save the day
+- There is a Hacker here, but is not me
